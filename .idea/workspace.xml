@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cf52c26-a333-4d26-911d-4eabea939689" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NegativeImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sepia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.NegativeImage">
+  <component name="RunManager" selected="Application.Sepia">
     <configuration name="ColoredToGrayscale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ColoredToGrayscale" />
       <module name="Image Processing" />
@@ -56,8 +56,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sepia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sepia" />
+      <module name="Image Processing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sepia" />
         <item itemvalue="Application.NegativeImage" />
         <item itemvalue="Application.ColoredToGrayscale" />
       </list>
@@ -85,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592823005759</updated>
-      <workItem from="1592823010234" duration="1103000" />
+      <workItem from="1592823010234" duration="1588000" />
     </task>
     <servers />
   </component>
@@ -96,21 +104,21 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1592823777432">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1592824129853">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592823777432" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1592823777432">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592824129853" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1592824129853">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592823777432" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1592823777431">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592824129853" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1592824129853">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592823777431" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1592823777432">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592824129853" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1592824129853">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592823777432" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1592824129853" />
   </component>
 </project>
